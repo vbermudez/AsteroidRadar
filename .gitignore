@@ -15,3 +15,7 @@
 # gradle
 gradle/
 gradlew*
+
+# APIKEY
+
+.apikey
